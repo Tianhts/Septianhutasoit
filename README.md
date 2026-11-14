@@ -23,14 +23,14 @@ I focus on **full-stack development** and look for ways to bring AI into product
 <h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">Have a project, an idea, or just want to talk tech? Feel free to reach out.</p>
+
 <div align="center">
   <a href="https://septianhts.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" /></a>
   <a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
   <a href="https://www.instagram.com/tianhts_/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
-  <a href="https://github.com/Tianhts" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+  <a href="https://gitlab.com/Septianhutasoit" target="_blank"><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="28" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 </div>
-
-
 
 <br/>
 
