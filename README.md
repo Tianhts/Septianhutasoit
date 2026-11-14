@@ -1,5 +1,5 @@
-<!-- ============ HEADER ============ -->
-<img width="100%" src="https://raw.githubusercontent.com/Tianhts/Tianhts/main/assets/header.svg" alt="Septian Hutasoit - Software Engineer" />
+<!-- ============ HEADER (animated wave, tanpa file SVG) ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0f172a,50:2e2a6b,100:5b5bd6&text=Septian%20Hutasoit&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Fullstack%20%7C%20DevOps%20%26%20AI%2FML&descSize=18&descAlignY=58&descColor=e0e7ff" alt="Septian Hutasoit - Software Engineer" />
 
 <!-- ============ BADGES ============ -->
 <div align="center">
@@ -48,5 +48,5 @@
 
 <br/>
 
-<!-- ============ FOOTER ============ -->
-<img width="100%" src="https://raw.githubusercontent.com/Tianhts/Tianhts/main/assets/footer.svg" alt="Thanks for visiting" />
+<!-- ============ FOOTER (animated wave, tanpa file SVG) ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:5b5bd6,50:2e2a6b,100:0f172a&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Thanks for visiting" />
